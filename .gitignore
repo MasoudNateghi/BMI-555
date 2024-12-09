@@ -3,3 +3,13 @@ slides/
 BMI555_syllabus.pdf
 .Ds_Store
 submission.txt
+
+papers/
+project/codes/masoud/misc/
+dataset/
+models/
+
+# files
+demo*
+*.gif
+notes.txt
